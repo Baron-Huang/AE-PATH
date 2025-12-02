@@ -6,7 +6,7 @@ Pan Huang, Yongfei Wang, Zhen Gu, Guoqing Fu, Yifang Ping*, Xiuwu Bian*, Xin Luo
 
 ## :fire: News
 
-- [2026/01/25] Our manuscript was submitted to _Nature Biomedical Engineering_ (IF 26.7).
+- [2026/01/25] Our manuscript will be submitted to _Nature Biomedical Engineering_ (IF 26.7).
 
 
 
