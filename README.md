@@ -1,8 +1,8 @@
 # AI-PATH
-Actively Interpretable Pathology Foundation Model: Instance-cluster Multi-global Effects driven-Invariance Semantic Self-supervised Disentanglement
+Actively Interpretable Pathology Foundation Clustering-model: Instance-cluster Multi-global Effects driven-Invariance Semantic Self-supervised Disentanglement
 
 ## 🧔: Authors [*Corresponding author]
-Pan Huang, Chentao Li, Hong Yan, Zhen Gu, Guoqing Fu, Mingrui Ma, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
+Pan Huang, Chentao Li, Hong Yan, Mingrui Ma, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
 
 ## :fire: News
 
