@@ -1,5 +1,5 @@
-# AI-PATH
-Actively Interpretable Pathology Foundation Model: Instance-cluster Multi-global Effects driven-Invariance Semantic Graph-regularized Tensor Clustering
+# AE-PATH
+Actively Explainable Pathology Universal-semantics Model: Instance-cluster Multi-global Effects driven-Deep Graph-regularized Tensor Clustering
 
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, Chentao Li, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
@@ -12,7 +12,7 @@ Pan Huang, Chentao Li, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Yifang Ping*
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Actively Interpretable Pathology Foundation Model with Instance-cluster Multi-global Effects driven-Invariance Semantic Self-supervised Disentanglement (AI-PATH)** method:
+Here's an overview of our **Actively Explainable Pathology Universal-semantics Model: Instance-cluster Multi-global Effects driven-Deep Graph-regularized Tensor Clustering (AE-PATH)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
@@ -29,7 +29,7 @@ Here's an overview of our **Actively Interpretable Pathology Foundation Model wi
 
 ## 🛠️ Getting Started
 
-To get started with **AI-PATH**, follow the installation instructions below.
+To get started with **AE-PATH**, follow the installation instructions below.
 
 1.  Clone the repo
 
